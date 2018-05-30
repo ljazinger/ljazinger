@@ -1,8 +1,11 @@
-## Welcome to GitHub Pages
+### Chatbots
+
+My Chatbot will help you find a good read, a good movie, or the next show to binge-watch on NETFLIX
+
 
 You can use the [editor on GitHub](https://github.com/ljazinger/ljazinger/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your e, from the content in your Markdown files.
 
 ### Markdown
 
